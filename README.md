@@ -1,4 +1,4 @@
-Hi Alex.
+Hi.
 
 I have created a simple console application that fetch URIs from the API and download the files every 5 minutes in three
 separeted threads simultaneously using async tasks.
